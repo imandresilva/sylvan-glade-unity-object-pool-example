@@ -1,4 +1,4 @@
-# Sylvan Glade Studio | Object Pool Example
+# Object Pool Example | Sylvan Glade Studio
 
 An example of using [Object Pools](https://docs.unity3d.com/ScriptReference/Pool.ObjectPool_1.html) in Unity.
 
